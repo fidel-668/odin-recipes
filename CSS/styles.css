@@ -1,0 +1,39 @@
+html {
+    background-color: lightgrey;
+    font: 1em sans-serif;
+}
+
+h1 {
+    text-align: center;
+    width: 600px;
+    margin: 10px auto;
+}
+
+.home-page {
+    text-align: left
+}
+
+body {
+    width: auto;
+    margin: 10px auto;
+    padding: 10px;
+}
+.end-of-page {
+    text-align: center;
+    font-style: italic;
+    margin-top: 100px;
+}
+
+.recipe-list {
+    background-color: darkgray;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.lasagna {
+    background-color: darkgray;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
